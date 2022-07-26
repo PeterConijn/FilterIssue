@@ -1,0 +1,29 @@
+{
+  "id": "aa884187-b267-4df4-84c5-769c2a09ab2a",
+  "name": "Demo Filter Issue",
+  "publisher": "Dysel",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "A demo of the filter issue when using blank dynamic captions.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
